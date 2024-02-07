@@ -296,6 +296,9 @@ footer{
     .intro .container .info h1 {
         font-size: 30px;
     }
+    header  .icon-nav {
+        display: hidden;
+    }
     /* intro */
 
 }
