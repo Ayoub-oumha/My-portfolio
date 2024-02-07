@@ -297,7 +297,7 @@ footer{
         font-size: 30px;
     }
     header  .icon-nav {
-        display: hidden;
+        display: block;
     }
     /* intro */
 
